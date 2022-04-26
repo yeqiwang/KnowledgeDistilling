@@ -1,5 +1,5 @@
 # 知识蒸馏
-该代码是基于tensorflow2的知识整理样例
+该代码是基于tensorflow2的知识蒸馏样例
 
 This is a example of knowledge distilling based on tensorflow2
 
